@@ -1,0 +1,6 @@
+@individuell_projekt___jakob_isse_HostAddress = http://localhost:5059
+
+GET {{individuell_projekt___jakob_isse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
